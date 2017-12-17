@@ -1,0 +1,9 @@
+C:\Users\vinicius_seganfredo\Documents\Visual Studio 2013\Projects\AutomationDoclerHolding\AutomationDoclerHolding\bin\Debug\AutomationDoclerHolding.dll
+C:\Users\vinicius_seganfredo\Documents\Visual Studio 2013\Projects\AutomationDoclerHolding\AutomationDoclerHolding\bin\Debug\AutomationDoclerHolding.pdb
+C:\Users\vinicius_seganfredo\Documents\Visual Studio 2013\Projects\AutomationDoclerHolding\AutomationDoclerHolding\bin\Debug\WebDriver.dll
+C:\Users\vinicius_seganfredo\Documents\Visual Studio 2013\Projects\AutomationDoclerHolding\AutomationDoclerHolding\bin\Debug\WebDriver.Support.dll
+C:\Users\vinicius_seganfredo\Documents\Visual Studio 2013\Projects\AutomationDoclerHolding\AutomationDoclerHolding\bin\Debug\WebDriver.xml
+C:\Users\vinicius_seganfredo\Documents\Visual Studio 2013\Projects\AutomationDoclerHolding\AutomationDoclerHolding\bin\Debug\WebDriver.Support.xml
+C:\Users\vinicius_seganfredo\Documents\Visual Studio 2013\Projects\AutomationDoclerHolding\AutomationDoclerHolding\obj\Debug\AutomationDoclerHolding.csprojResolveAssemblyReference.cache
+C:\Users\vinicius_seganfredo\Documents\Visual Studio 2013\Projects\AutomationDoclerHolding\AutomationDoclerHolding\obj\Debug\AutomationDoclerHolding.dll
+C:\Users\vinicius_seganfredo\Documents\Visual Studio 2013\Projects\AutomationDoclerHolding\AutomationDoclerHolding\obj\Debug\AutomationDoclerHolding.pdb
